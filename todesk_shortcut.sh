@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Author:sige
 # 设定变量
 APP_NAME="ToDesk"
 DESKTOP_FILE="$HOME/Desktop/todesk.desktop"
